@@ -29,15 +29,15 @@ sidebar:
           level: Basic knowledge
 
     interests:
-      title: Interests
+      title: Online courses
       info:
-        - item: Climbing
+        - item: Advanced Programming with Python
           link:
 
-        - item: Snowboarding
+        - item: Web Design & Digital Content Production
           link:
 
-        - item: Cooking
+        - item: Introduction to Python
           link:
 
 education:
