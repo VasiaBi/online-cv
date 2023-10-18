@@ -10,13 +10,13 @@ sidebar:
     # Profile information
     name: Vasia Bilali
     tagline: UI/UX Designer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: vb_cv.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vasiabilali@gmail.com
-    phone: 6978xxxxxx
-    linkedin: alandoe
-    github: sharu725
+    phone: 6978695468
+    linkedin: VasiaBilali
+    github: VasiaBi
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -69,35 +69,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: UI/UX Designer
+        time: Nov. 2019 - Present
+        company: Vodafone, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - User journeys redesign to improve usability
+            - Brainstorming, wireframe & prototype creation
+            - User testing & results analysis
+            - Website components redesign with new brand guidelines
+      - role: CX Design Graduate Trainee
+        time: Mar. 2019 - Nov. 2019
+        company: Vodafone, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+        Responsible for CX analysis in stores & digital touchpoints
+            - App store comments handling & 1st level user support
+            - App login journey mapping & collection of relevant support material
+            - Collection of customer feedback through store visits, detection of pain points & creation of action plan
+            - Monthly store survey analysis
+      - role: CRM Product Trainee
+        time: Nov. 2018 - Feb. 2019
+        company: Intralot, Greece
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
