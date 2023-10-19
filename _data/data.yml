@@ -100,26 +100,20 @@ experiences:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Photoshop, Illustrator
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: XD, Figma
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: HTML, CSS
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Useberry,Treejack
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
