@@ -10,14 +10,13 @@ sidebar:
     # Profile information
     name: Vasia Bilali
     tagline: UI/UX Designer
-    avatar: vb_cv.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vasiabilali@gmail.com
     phone: 6978695468
-    linkedin: VasiaBilali
+    linkedin: Vasia Bilali
     github: VasiaBi
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -29,15 +28,15 @@ sidebar:
           level: Basic knowledge
 
     interests:
-      title: Online courses
+      title: Interests
       info:
-        - item: Advanced Programming with Python
+        - item: Climbing
           link:
 
-        - item: Web Design & Digital Content Production
+        - item: Snowboarding
           link:
 
-        - item: Introduction to Python
+        - item: Cooking
           link:
 
 education:
